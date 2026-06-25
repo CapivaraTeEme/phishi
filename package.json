@@ -1,0 +1,6 @@
+{
+  "name": "ip-logger-vercel",
+  "version": "1.0.0",
+  "description": "Simple IP and User-Agent logger for Vercel",
+  "main": "api/index.js"
+}
